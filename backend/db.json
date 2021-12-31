@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Bruna Elisabete Duarte",
+      "email": "bruna@.com.br",
+      "id": 1
+    },
+    {
+      "name": "Anna Duarte",
+      "email": "ana@.com.br",
+      "id": 2
+    },
+    {
+      "name": "testetesteteste",
+      "email": "teste@teste",
+      "id": 3
+    }
+  ]
+}
